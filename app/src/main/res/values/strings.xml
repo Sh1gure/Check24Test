@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Check 24 test</string>
+    <string name="main_screen_button_retry">Retry</string>
+    <string name="main_screen_info_loading">Loading</string>
+    <string name="main_screen_info_wait">Trying to load list of countries for you</string>
+    <string name="main_screen_info_country">Country flag</string>
+    <string name="main_screen_tile_population">Population %1$s</string>
+</resources>
